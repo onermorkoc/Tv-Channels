@@ -2,6 +2,8 @@
 
 Açık kaynak kodlu basit bir IPTV uygulaması.
 
+Not: Kanalların izni olmadan uygulama içerisinde barındırmanın sonucunda bir telif hakkı söz konusudur. Bu sebeple projenin geliştirilmesi durdurulmuş olup proje source kodu ve yayınlanan apklar kaldırılmıştır. Anlayışınız için teşekkürler
+
 ✅ Modern, şık ve basit arayüz.<br/>
 ✅ Toplam 63 kanal. Genel olarak çoğu FHD ve HD.<br/>
 ✅ Android telefon ve televizyon uyumlu. <br/>
@@ -32,4 +34,4 @@ Sorunsuz bi şekilde ulusal kanalları izlemenin keyfini çıkarın. 🥳
 
 # Ekran Görüntüleri
 
-<img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/phone-ss-1.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/phone-ss-2.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/phone-ss-3.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/tv-ss-1.png" width="440"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/tv-ss-2.png" width="400"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/tv-ss-3.png" width="400"> <img src="https://github.com/onermorkoc/Tv-Kanallari/blob/main/img/tv-ss-4.jpg" width="400">
+<img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/phone-ss-1.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/phone-ss-2.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/phone-ss-3.png" width="125"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/tv-ss-1.png" width="440"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/tv-ss-2.png" width="400"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/tv-ss-3.png" width="400"> <img src="https://github.com/onermorkoc/Tv-Channels/blob/main/img/tv-ss-4.jpg" width="400">
